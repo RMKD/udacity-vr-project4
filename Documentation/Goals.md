@@ -1,0 +1,3 @@
+- attract people who like to play puzzle games
+- attract people who own headsets
+- attract people who like dungeon crawlers
