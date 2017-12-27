@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Puzzler is a proof of concept game for mobile-phone based head mounted displays. It takes a user into a single room where they have to repeat a pattern correctly in order to exit. If they like, they can play the puzzle more than once. In future versions, this experience can be extended by building additional rooms with additional puzzles.
+Puzzler is a proof of concept game for mobile-phone based head mounted displays. It takes a user into a single room where they have to repeat a pattern correctly in order to exit. If they like, they can play the puzzle more than once. In future versions, this experience can be extended by building additional rooms with additional puzzles. 
 
-[Here's a video walkthrough](Documentation/puzzler-demo.mp4)
+[Here's a video walkthrough](Documentation/puzzler_demo.mp4)
 
 ## Outcomes
 
@@ -12,6 +12,29 @@ Puzzler is a proof of concept game for mobile-phone based head mounted displays.
 - interactive sound and visuals
 - smooth navigation through spaces
 - single room puzzle
+
+
+## Target Persona and Goals
+
+**Name**: Joe
+
+**Age**: 27
+
+**Occupation**: Accountant
+
+**Picture**: ¯\\_(ツ)_/
+
+**Quote**: "I finally solved it!"
+
+**Description**: Joe is a person who likes to play games on his phone to relax. He doesn't have the highest end phone, but he's willing to spend a few dollars.
+
+**Experience**: He's tried a few VR experiences but mostly enjoys puzzle solving more than movement games
+
+### Goals
+- attract people who like to play puzzle games
+- attract people who own headsets
+- attract people who like dungeon crawlers
+
 
 ## Story of the process
 
